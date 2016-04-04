@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fotag Mobile</string>
+    <string name="add_preset_images">Add Preset Images</string>
+    <string name="clear_images">Clear Images</string>
+</resources>
